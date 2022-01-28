@@ -4,7 +4,7 @@
 * Edit : Vs Code
 * npm version : 8.3.0
 * React version : 17.0.2
-* 코지코더님 유튜브 리액트강의 link : [강의들으러 가기!](https://www.youtube.com/playlist?list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX, "렛츠 고!")
+* 코지코더님 유튜브 리액트강의 link : [강의들으러 가기!](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX, "렛츠 고!")
 * * *
 
 2021-01-28(금)
