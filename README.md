@@ -11,33 +11,33 @@
 
 [01 리액트 설치하기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=1)
 
-[02 폴더구조 & 컴포넌트 소개](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=2)
+[02 폴더구조 & 컴포넌트 소개](https://www.youtube.com/watch?v=AODd4CjE1h8&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=2)
 
-[03 이벤트 핸들링 (onClick & onKeyUp)](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=3)
+[03 이벤트 핸들링 (onClick & onKeyUp)](https://www.youtube.com/watch?v=AJ_yDXBSkdw&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=3)
 
-[04 리액트 훅스 useState](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=4)
+[04 리액트 훅스 useState](https://www.youtube.com/watch?v=GVEP1uIWQuk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=4)
 
-[05 폼에서 useState 사용하기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=5)
+[05 폼에서 useState 사용하기](https://www.youtube.com/watch?v=UFtirvA6NDU&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=5)
 
-[06 useEffect 사용하기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=6)
+[06 useEffect 사용하기](https://www.youtube.com/watch?v=pvTuVXlrGUY&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=6)
 
-[07 컴포넌트로 반복 제거](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=7)
+[07 컴포넌트로 반복 제거](https://www.youtube.com/watch?v=CzQonZ-Qo2I&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=7)
 
-[8 자식 컴포넌트에 데이터 보내기 Props!](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=8)
+[8 자식 컴포넌트에 데이터 보내기 Props!](https://www.youtube.com/watch?v=5y0UYsxRjx4&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=8)
 
-[9 조건 렌더링](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=9)
+[9 조건 렌더링](https://www.youtube.com/watch?v=uIisipyyFVg&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=9)
 
-[10 리액트 반복문](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=10)
+[10 리액트 반복문](https://www.youtube.com/watch?v=OWSxLU-qnTg&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=10)
 
-[11 컴포넌트와 props 데이터 보내기 복습](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=11)
+[11 컴포넌트와 props 데이터 보내기 복습](https://www.youtube.com/watch?v=lzyXJWg7Tm4&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=11)
 * * *
 
 2022-01-31(월)
 
-[12 영화 리스트 추가 폼 만들기 1](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=12)
+[12 영화 리스트 추가 폼 만들기 1](https://www.youtube.com/watch?v=EJX51eP_fxA&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=12)
 
 
-[13 영화 리스트 추가 폼 만들기 2](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=13)
+[13 영화 리스트 추가 폼 만들기 2](https://www.youtube.com/watch?v=Z0Qcx-ZX7pY&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=13)
 
 
 [14 자식 컴포넌트에서 부모 컴포넌트 스테이트 변경하기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=14)
