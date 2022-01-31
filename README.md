@@ -7,7 +7,7 @@
 * 코지코더님 유튜브 리액트강의 link : [강의들으러 가기!](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX, "렛츠 고!")
 * * *
 
-2021-01-28(금)
+2022-01-28(금)
 
 [01 리액트 설치하기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=1)
 
@@ -30,3 +30,7 @@
 [10 리액트 반복문](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=10)
 
 [11 컴포넌트와 props 데이터 보내기 복습](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=11)
+* * *
+
+2022-01-31(월)
+
