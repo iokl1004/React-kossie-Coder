@@ -40,20 +40,20 @@
 [13 영화 리스트 추가 폼 만들기 2](https://www.youtube.com/watch?v=Z0Qcx-ZX7pY&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=13)
 
 
-[14 자식 컴포넌트에서 부모 컴포넌트 스테이트 변경하기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=14)
+[14 자식 컴포넌트에서 부모 컴포넌트 스테이트 변경하기](https://youtu.be/BhkzLozzhnU)
 
 
-[15 영화 삭제하기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=15)
+[15 영화 삭제하기](https://youtu.be/lPyQmmSrNd8)
 
 
-[16 영화 폼 validation](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=16)
+[16 영화 폼 validation](https://youtu.be/oQpz81PVOzo)
 
 
-[17 InputField 컴포넌트로 빼내기 & Fragment](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=17)
+[17 InputField 컴포넌트로 빼내기 & Fragment](https://youtu.be/ye6eTSdjwYQ)
 
 
-[18 React router 설치하기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=18)
+[18 React router 설치하기](https://youtu.be/R41by_OxO-s)
 
 
-[19 네비게이션 바 만들기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=19)
+[19 네비게이션 바 만들기](https://youtu.be/tpqUAXITI5c)
 
