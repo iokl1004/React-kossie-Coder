@@ -33,4 +33,26 @@
 * * *
 
 2022-01-31(월)
+[12 영화 리스트 추가 폼 만들기 1](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=12)
+
+
+[13 영화 리스트 추가 폼 만들기 2](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=13)
+
+
+[14 자식 컴포넌트에서 부모 컴포넌트 스테이트 변경하기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=14)
+
+
+[15 영화 삭제하기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=15)
+
+
+[16 영화 폼 validation](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=16)
+
+
+[17 InputField 컴포넌트로 빼내기 & Fragment](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=17)
+
+
+[18 React router 설치하기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=18)
+
+
+[19 네비게이션 바 만들기](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=19)
 
