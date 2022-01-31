@@ -33,6 +33,7 @@
 * * *
 
 2022-01-31(월)
+
 [12 영화 리스트 추가 폼 만들기 1](https://www.youtube.com/watch?v=y4Pd3M1ZIXk&list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX&index=12)
 
 
