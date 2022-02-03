@@ -56,4 +56,28 @@
 
 
 [19 네비게이션 바 만들기](https://youtu.be/tpqUAXITI5c)
+* * *
 
+2022-02-03(목)
+
+[20 react router 적용하기](https://youtu.be/6wIPEfL1mWM)
+
+[21 React router 작동 원리 알아보기](https://youtu.be/RT2s9Kx4H_M)
+
+[22 NavLink 사용하기](https://youtu.be/jl7wCKbpGJs)
+
+[23 유저 데이터 받아오기](https://youtu.be/9-OrcyggmKQ)
+
+[24 유저 데이터 화면에 출력하기](https://youtu.be/rMF4sMKKmy4)
+
+[25 유저 데이터 화면에 출력하기 2](https://youtu.be/quxBCYxXWIo)
+
+[26 로딩 Spinner 추가하기](https://youtu.be/2TjLO5I5OeM)
+
+[27 Home/Movies 페이지 컴포넌트 만들기](https://youtu.be/zzlbyaMpDcU)
+
+[28 routes 파일 만들기](https://youtu.be/FC6STxrEDBk)
+
+[29 user 페이지 라우트 추가](https://youtu.be/H6mTuUejkTc)
+
+[30(마지막) user 페이지](https://youtu.be/Xd2_PWwpQOM)
